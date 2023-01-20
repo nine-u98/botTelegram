@@ -2,7 +2,7 @@ import telebot
 import os
 import pytube
 
-bot = telebot.TeleBot('5866057229:AAEVrCc2Zp7MgfL-jHGoM1HxNtuWvBLxcO0')
+bot = telebot.TeleBot('my_token')
 
 #directorio donde guardar la descarga
 path = os.getcwd() + "/slide/"
